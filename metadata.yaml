@@ -1,0 +1,40 @@
+_repo: The-Works-of-Frederick-Schiller_6800
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: 'V. 1. History of the Thirty years'' war ; History of the revolt of the
+  Netherlands -- v. 2. History of the revolt of the Netherlands: conclusion ; Trial
+  and execution of Counts Egmont and Horn ; Siege of Antwerp by the Prince of Parma
+  ; Wallenstein''s camp ; The Piccolomini ; The death of Wallenstein ; Wilhelm Tell
+  -- v. 3. Don Carlos ; Mary Stuart ; The Maid of Orleans ; On the use of the chorus
+  in tragedy ; The bride of Messina -- v. 4. The robbers ; Fiesco ; Love and intrigue
+  ; Demetrius ; The ghost-seer ; The sport of destiny.'
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Schiller, Friedrich, 1759-1805 -- Translations into English'
+- GITenberg
+tableOfContents: "History: Thirty Years' War; Revolt of the Netherlands\r\n\r\nPlays:\
+  \ The Robbers; Fiesco; Love and Intrigue; The Camp of Wallenstein; Piccolomini;\
+  \ The Death of Wallenstein; Whilhelm Tell; Don Carlos; Demetrius; Mary Stuart; The\
+  \ Maid of Orleans; The Bride of Messina\r\n\r\nPoems: 1st Period; 2nd Period; 3rd\
+  \ Period; Supressed Poems\r\n\r\nPhilosophy: Aesthetical Essays; Philosophical Letters\r\
+  \n\r\nNovels: The Ghost Seer (Or, The Apparitionist); The Sport of Destiny"
+title: The Works of Frederick Schiller
+url: http://www.gutenberg.org/ebooks/6800

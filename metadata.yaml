@@ -1,5 +1,8 @@
 _repo: The-Works-of-Frederick-Schiller_6800
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -18,6 +21,8 @@ description: 'V. 1. History of the Thirty years'' war ; History of the revolt of
   -- v. 3. Don Carlos ; Mary Stuart ; The Maid of Orleans ; On the use of the chorus
   in tragedy ; The bride of Messina -- v. 4. The robbers ; Fiesco ; Love and intrigue
   ; Demetrius ; The ghost-seer ; The sport of destiny.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6800#The-Works-of-Frederick-Schiller
 gutenberg_issued: '2004-12-08'
 gutenberg_type: Text
 identifiers:
